@@ -1,7 +1,6 @@
 const express = require("express");
 const cheerio = require("cheerio");
 const request =  require("request");
-const Router = express.Router();
 const path = require('path')
 
 
